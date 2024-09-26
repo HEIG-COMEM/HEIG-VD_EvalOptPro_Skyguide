@@ -232,8 +232,8 @@ export default hopeTheme({
 		// },
 
 		// install @vuepress/plugin-revealjs and uncomment these if you need slides
-		// revealjs: {
-		//   plugins: ["highlight", "math", "search", "notes", "zoom"],
-		// },
+		revealjs: {
+			plugins: ["highlight", "math", "search", "notes", "zoom"],
+		},
 	},
 });
