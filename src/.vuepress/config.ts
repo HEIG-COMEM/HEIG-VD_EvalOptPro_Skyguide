@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-	base: "/",
+	base: "/HEIG-VD_EvalOptPro_Skyguide/",
 
 	lang: "en-US",
 	title: "ChatGPT Skyguide",
