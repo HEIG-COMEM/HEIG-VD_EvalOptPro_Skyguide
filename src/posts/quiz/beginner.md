@@ -1,4 +1,5 @@
 ---
+order: 1
 lang: en-US
 title: Beginner Quiz
 description: Take a quiz to test your knowledge
@@ -9,7 +10,7 @@ category:
 
 # Beginner Quiz
 
-Here’s a fun quiz to test how well you know the basics of using ChatGPT! Try answering the questions below.
+Here’s a quiz to test how well you know the basics of using ChatGPT! Try answering the questions below.
 
 <!-- more -->
 

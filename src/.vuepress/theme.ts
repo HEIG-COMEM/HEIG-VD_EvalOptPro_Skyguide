@@ -22,12 +22,14 @@ export default hopeTheme({
 	docsDir: "src",
 
 	// navbar
-	// navbar,
+	navbar,
 
 	// sidebar
 	sidebar,
 
 	footer: "Default footer",
+
+	darkmode: "disable",
 
 	displayFooter: false,
 
@@ -84,11 +86,13 @@ export default hopeTheme({
 	},
 
 	// enable it to preview all changes in time
-	// hotReload: true,
+	hotReload: true,
 
 	plugins: {
 		blog: true,
-
+		markdownHint: {
+			alert: true,
+		},
 		// Install @waline/client before enabling it
 		// Note: This is for testing ONLY!
 		// You MUST generate and use your own comment service in production.

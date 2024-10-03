@@ -6,7 +6,7 @@ export default defineUserConfig({
 	base: "/HEIG-VD_EvalOptPro_Skyguide/",
 
 	lang: "en-US",
-	title: "ChatGPT Skyguide",
+	title: "",
 	description: "A guide to using ChatGPT to help you work smarter.",
 
 	theme,

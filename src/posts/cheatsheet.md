@@ -1,4 +1,5 @@
 ---
+order: 2
 lang: en-US
 title: ChatGPT Cheatsheet
 description: A quick cheatsheet with frequently used prompts

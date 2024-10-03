@@ -9,5 +9,11 @@ export default sidebar({
 			prefix: "posts/",
 			children: "structure",
 		},
+		{
+			text: "Recordings",
+			icon: "video",
+			prefix: "videos/",
+			children: "structure",
+		},
 	],
 });

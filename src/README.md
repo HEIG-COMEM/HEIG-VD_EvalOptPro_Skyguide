@@ -18,15 +18,15 @@ projects:
    - icon: project
      name: Ressources
      desc: Outside ressources to go further
-     link: https://your.project.link
+     link: https://www.zotero.org/groups/4947154/chatgpt_bote__outils
 
-   - icon: book
-     name: book name
-     desc: Detailed description of the book
-     link: https://link.to.your.book
+   - icon: video
+     name: Recorded session
+     desc: Re-watch the recorded session
+     link: /videos/
 
-   - icon: article
-     name: article name
-     desc: Detailed description of the article
-     link: https://link.to.your.article
+   - icon: robot
+     name: Automatisation
+     desc: Automate your workflow
+     link: /posts/automatisations/
 ---
