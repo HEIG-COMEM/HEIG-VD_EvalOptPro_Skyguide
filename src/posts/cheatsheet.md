@@ -14,131 +14,172 @@ This cheatsheet provides examples of prompts that can be used with ChatGPT, cate
 
 <!-- more -->
 
-### 1. **General Assistance & Advice**
+## Cheatsheet
 
--  **Ask for advice or guidance**:  
-   "I need advice on how to stay productive while working from home. Can you help me?"
--  **General information or explanations**:  
-   "Can you explain quantum computing in simple terms?"
--  **Summarize a topic**:  
-   "Can you summarize the main ideas of the book _Sapiens_ by Yuval Noah Harari?"
+### 1. **Content Summary**
 
----
+#### **Summarize a Non-Confidential Text**
 
-### 2. **Writing Assistance**
+```
+Summarize the following text, highlighting the key points:
 
--  **Creative Writing**:
+[Insert the text here]
 
-   -  "Can you write a short fantasy story about a dragon and a young girl on a quest?"
-   -  "Write a poem about the changing seasons."
+```
 
--  **Content Creation**:
+#### **Extract Main Conclusions**
 
-   -  "I need a blog post about the benefits of meditation for beginners."
-   -  "Help me write a professional bio for LinkedIn."
+```
+What are the main conclusions of the document below?
 
--  **Improve writing style**:  
-   "Can you help me rewrite this paragraph to sound more formal?"
+[Insert the text here]
 
--  **Generate title ideas**:  
-   "I need title suggestions for a sci-fi novel about time travel."
+```
 
----
+### 2. **Professional Email Writing**
 
-### 3. **Learning & Study Help**
+#### **Draft a Standardized Response**
 
--  **Explain difficult concepts**:  
-   "Can you explain the theory of relativity as if I were a high school student?"
+```
+Draft a professional email in response to the following situation:
 
--  **Help with problem-solving**:  
-   "Can you walk me through how to solve this algebra equation step by step?"
+[Briefly describe the situation without sensitive information]
 
--  **Language learning**:
-   -  "How do you say 'Thank you' in Japanese?"
-   -  "Can you help me write a short email in Spanish?"
+```
 
----
+#### **Improve an Email Draft**
 
-### 4. **Coding & Technical Help**
+```
+Improve the clarity and professionalism of this email:
 
--  **Debugging assistance**:  
-   "Here’s my Python code, but it’s not running properly. Can you help me figure out what’s wrong?"
--  **Explain code**:  
-   "What does this JavaScript function do?"
--  **Write code**:
-   -  "Can you write a Python script to scrape a webpage for specific data?"
-   -  "I need a SQL query to find all users who joined in the last 30 days."
+[Paste the email draft here]
 
----
+```
 
-### 5. **Research & Learning New Topics**
+### 3. **Text Translation (EN, DE, FR)**
 
--  **Research help**:  
-   "I’m doing research on climate change. Can you help me find sources or summarize key points?"
+#### **Translate a Text**
 
--  **Summarize articles**:  
-   "Can you summarize this article about AI ethics?"
--  **Explain trends or recent developments**:  
-   "What are the current trends in the stock market?"
+```
+Translate the following text into [target language]:
 
----
+[Insert the text here]
 
-### 6. **Creative & Fun Prompts**
+```
 
--  **Generate ideas**:
+#### **Verify and Improve a Translation**
 
-   -  "Give me 10 creative business ideas I can start from home."
-   -  "Can you create a unique superhero character with special abilities?"
+```
+Verify the following translation to ensure its fluency and accuracy in [target language]:
 
--  **Games & challenges**:
-   -  "Let’s play a word association game!"
-   -  "Can you create a fun trivia quiz for me about space?"
+[Insert the translation here]
 
----
+```
 
-### 7. **Task Automation**
+### 4. **Intranet News Creation**
 
--  **Plan something**:  
-   "Can you create a meal plan for a week for someone on a vegetarian diet?"
+#### **Write an Internal News Article**
 
--  **Generate templates**:  
-   "Create a professional email template for requesting a meeting."
+```
+Write an article for the intranet informing employees about [general topic], emphasizing [important points]. The tone should be professional and engaging.
 
--  **Productivity hacks**:  
-   "Can you suggest some time management techniques for a busy entrepreneur?"
+```
 
----
+#### **Generate Ideas for an Internal Campaign**
 
-### 8. **Role Play & Simulation**
+```
+Propose ideas for an internal communication campaign aimed at [objective], considering [audience or constraints].
 
--  **Interview practice**:  
-   "Can we do a mock job interview for a marketing position?"
--  **Customer service training**:  
-   "I want to practice handling a difficult customer situation. Can you simulate it?"
+```
 
----
+### 5. **Content Creation and Ideas**
 
-### 9. **Miscellaneous**
+#### **Idea Brainstorming**
 
--  **Translate text**:  
-   "Translate the following text from French to English: _Bonjour, comment ça va?_"
+```
+Propose ideas on the following theme: [theme or topic]
 
--  **Analyze data** (via code execution tools):  
-   "I have this dataset. Can you help me analyze the trends in the data?"
+```
 
--  **Create detailed descriptions for images** (with DALL-E):  
-   "Describe a peaceful mountain scene with a lake at sunrise."
+#### **Develop a Plan or Structure**
 
----
+```
+Help me develop a detailed plan for [project or document], including the following sections: [list of sections]
 
-### 10. **Custom Instructions & Fine-tuning**
+```
 
--  **Change the response style**:
-   -  Formal: "Can you explain the benefits of exercise in a formal tone?"
-   -  Casual: "Tell me about the benefits of exercise, but keep it casual."
--  **Set word limits**:  
-   "Can you summarize the causes of World War II in 100 words?"
+### 6. **Writing Non-Confidential Guides or Procedures**
 
----
+#### **Create a Simplified Guide**
 
-Feel free to modify these prompts based on your specific needs!
+```
+Write a step-by-step guide for [task or process], aimed at beginners.
+
+```
+
+### 7. **Text Improvement**
+
+#### **Proofreading and Correction**
+
+```
+Correct and improve the following text to ensure proper grammar and spelling:
+
+[Insert the text here]
+
+```
+
+#### **Adjust Tone and Style**
+
+```
+Rewrite the text below with a [professional/friendly/formal] tone, while preserving the main message:
+
+[Insert the text here]
+
+```
+
+### 8. **Presentation Preparation**
+
+#### **Generate Key Points**
+
+```
+Identify the key points for a presentation on [topic], aimed at [target audience].
+
+```
+
+#### **Write an Introduction**
+
+```
+Write an introduction for a presentation on [topic], highlighting [goals or key messages].
+
+```
+
+### 9. **Time and Task Management**
+
+#### **Create a Prioritized Task List**
+
+```
+Help me create a task list for [project], prioritizing them in order of importance.
+
+```
+
+#### **Propose a Simplified Schedule**
+
+```
+Propose a schedule for the following tasks: [list of tasks], over a period of [duration].
+
+```
+
+### 10. **Data Security Reminders**
+
+-  **Never include confidential or sensitive information in your prompts.**
+-  **Use general and anonymous descriptions.**
+-  **If unsure about the confidentiality of information, do not include it.**
+
+## **General Tips for Using ChatGPT**
+
+-  **Be Clear and Precise:** The more specific your prompt, the better the response.
+-  **Use Simple Language:** Avoid unnecessary jargon or technical terms.
+-  **Verify Results:** Always review and adjust responses to fit your exact needs.
+-  **Practice Regularly:** The more you use ChatGPT, the more comfortable you'll become with crafting effective prompts.
+
+**This cheatsheet is designed to help you optimize the use of ChatGPT in your daily work at Skyguide, while adhering to the company's confidentiality and security guidelines.**

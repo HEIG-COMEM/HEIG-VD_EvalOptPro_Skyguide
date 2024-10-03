@@ -28,3 +28,29 @@ To take the most out of ChatGPT, you can use the Skyguide pre-trained model. It 
 1. Go to the ChatGPT interface.
 2. Click on the "Select Model" button.
 3. Choose the "Skyguide" model.
+
+## Automatisations
+
+In the automatisation section, you will find pre-prompts for various tasks. These pre-prompts can help you automate your work and save time.
+
+You should use these pre-prompts to generate human-like text based on prompts. This will help you to write emails, summaries, and much more.
+
+[Automatisation](./automatisations/)
+
+## Cheatsheet
+
+In the cheatsheet section, you will find useful short templates and examples to help you get started with ChatGPT.
+
+[Cheatsheet](./cheatsheet)
+
+## Quiz
+
+In the quiz section, you will find a quiz to test your knowledge of ChatGPT.
+
+[Quiz](./quiz)
+
+If you wish to improve your skills with ChatGPT, you can also check the [intranet](https://squawk.skyguide.ch/content/page/634f0b903b38db5a66f0f316) for upcoming training sessions.
+
+## Conclusion
+
+Now that you have read this guide, you should be ready to use ChatGPT for your work. Remember to use the pre-prompts and the Skyguide model to get the most out of the tool. If you have any questions, feel free to ask for help.
