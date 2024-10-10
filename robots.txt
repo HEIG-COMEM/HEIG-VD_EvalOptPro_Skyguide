@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://mister-hope.github.io/HEIG-VD_EvalOptPro_Skyguide/sitemap.xml
